@@ -34,14 +34,16 @@ This repository is a part of CSI-248 at Renton Technical College.
 13. Create a component named BlogHeader.jsx
 14. In BlogHeader.jsx add the following code:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/839a7bed-d5bc-4468-81a0-b31745801733)
-15. Go back to App.jsx and import the new component and render the component after the h1: ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/2739361b-94c5-4f7a-ad8a-8e6418c988a9)
+15. Go back to App.jsx and import the new component and render the component after the h1:
+    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/2739361b-94c5-4f7a-ad8a-8e6418c988a9)
 17. Now that we see our component is working lets try to pass some data to it with props
 18. Modify BlogHeader.jsx to take a props parameter and display information from the props in the component:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/0d38b5e1-4725-4ade-8439-913bed04aaae)
-20. Modify App.jsx to pass data to the BlogHeader component: ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/31382529-0d2b-44bb-8e9a-c369a2858008)
-21. Data is now being moved from a parent component to a child component. Take a Screenshot of the output and add to screenshots
-22. Repeat this process for a BlogBody component and a BlogFooter component.
-23. Code for BlogBody:
+20. Modify App.jsx to pass data to the BlogHeader component:
+    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/31382529-0d2b-44bb-8e9a-c369a2858008)
+22. Data is now being moved from a parent component to a child component. Take a Screenshot of the output and add to screenshots
+23. Repeat this process for a BlogBody component and a BlogFooter component.
+24. Code for BlogBody:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/512d3ed8-a0de-4446-b580-5e0b52f1b019)
 25. Code for BlogFooter:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/480a228d-5b1b-4bff-9a7e-a2bff2b14191)
