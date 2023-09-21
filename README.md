@@ -44,19 +44,34 @@ This repository is a part of CSI-248 at Renton Technical College.
  
 15. Now that we see our component is working lets try to pass some data to it with props
 16. Modify BlogHeader.jsx to take a props parameter and display information from the props in the component:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/0d38b5e1-4725-4ade-8439-913bed04aaae)
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/30974e6f-9262-4770-856f-bf3eaf74049a)
+
+
 17. Modify App.jsx to pass data to the BlogHeader component:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/31382529-0d2b-44bb-8e9a-c369a2858008)
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/0b265051-d4b6-4f4e-b564-d380a67eb99b)
+
+
 18. Data is now being moved from a parent component to a child component. Take a Screenshot of the output and add to screenshots
 19. Repeat this process for a BlogBody component and a BlogFooter component.
 20. Code for BlogBody:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/512d3ed8-a0de-4446-b580-5e0b52f1b019)
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/81427362-360a-42e9-bcce-569181b55ca6)
+
+
 21. Code for BlogFooter:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/480a228d-5b1b-4bff-9a7e-a2bff2b14191)
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/28aa58f3-7ce3-4e67-a55a-f077b304d239)
+
+
 22. Import BlogBody and BlogFooter into App.jsx and render them while passing some data to the props
 23. Updated code for App.jsx. Notice how components can also use self-closing tags.
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/78f2ca23-6d80-4ceb-b94b-48becaf3a147)
-24. Take a screenshot of the output and save in screenshots directory.
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/e665ccbf-2466-4db2-af16-cd0fb8da59c7)
+
+
+24. Take a screenshot of the rendered webpage and save in screenshots directory.
 
 ## Guided Activity Part 3 Submission (You can also use GitHub desktop to submit)
 25. Type `git add .` to stage all updated files.
