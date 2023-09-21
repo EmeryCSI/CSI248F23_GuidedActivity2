@@ -35,29 +35,33 @@ This repository is a part of CSI-248 at Renton Technical College.
 11. Inside of src create a folder named components
 12. Create a component named BlogHeader.jsx
 13. In BlogHeader.jsx add the following code:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/839a7bed-d5bc-4468-81a0-b31745801733)
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/278ba5a8-e62a-491a-b6d4-5e687529f708)
+
 14. Go back to App.jsx and import the new component and render the component after the h1:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/2739361b-94c5-4f7a-ad8a-8e6418c988a9)
-17. Now that we see our component is working lets try to pass some data to it with props
-18. Modify BlogHeader.jsx to take a props parameter and display information from the props in the component:
+
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/3d32c402-eafc-415a-8143-eca015f8950b)
+ 
+15. Now that we see our component is working lets try to pass some data to it with props
+16. Modify BlogHeader.jsx to take a props parameter and display information from the props in the component:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/0d38b5e1-4725-4ade-8439-913bed04aaae)
-20. Modify App.jsx to pass data to the BlogHeader component:
+17. Modify App.jsx to pass data to the BlogHeader component:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/31382529-0d2b-44bb-8e9a-c369a2858008)
-22. Data is now being moved from a parent component to a child component. Take a Screenshot of the output and add to screenshots
-23. Repeat this process for a BlogBody component and a BlogFooter component.
-24. Code for BlogBody:
+18. Data is now being moved from a parent component to a child component. Take a Screenshot of the output and add to screenshots
+19. Repeat this process for a BlogBody component and a BlogFooter component.
+20. Code for BlogBody:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/512d3ed8-a0de-4446-b580-5e0b52f1b019)
-25. Code for BlogFooter:
+21. Code for BlogFooter:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/480a228d-5b1b-4bff-9a7e-a2bff2b14191)
-27. Import BlogBody and BlogFooter into App.jsx and render them while passing some data to the props
-28. Updated code for App.jsx. Notice how components can also use self-closing tags.
+22. Import BlogBody and BlogFooter into App.jsx and render them while passing some data to the props
+23. Updated code for App.jsx. Notice how components can also use self-closing tags.
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/78f2ca23-6d80-4ceb-b94b-48becaf3a147)
-30. Take a screenshot of the output and save in screenshots directory.
+24. Take a screenshot of the output and save in screenshots directory.
 
 ## Guided Activity Part 3 Submission (You can also use GitHub desktop to submit)
-31. Type `git add .` to stage all updated files.
-32. Type `git commit -m "Guided Activity 2 Complete"`.
-33. Type `git push`.
+25. Type `git add .` to stage all updated files.
+26. Type `git commit -m "Guided Activity 2 Complete"`.
+27. Type `git push`.
 
 
 
