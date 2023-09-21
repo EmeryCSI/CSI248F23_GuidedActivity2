@@ -28,13 +28,15 @@ This repository is a part of CSI-248 at Renton Technical College.
 7. Type `npm run dev` to launch the demo project
 8. Take a screenshot of the template project running and save in screenshots
 9. In the src folder replace ALL of the code in App.jsx with the following:
-    ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/468d8ab6-9ca5-4aa8-9c63-06ce62aeb4d0)
+![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/ab8fb752-73af-4095-9613-9aa73ee86207)
+
+
 10. Save App.jsx and notice the change in the browser. Add a screenshot of this output
-12. Inside of src create a folder named components
-13. Create a component named BlogHeader.jsx
-14. In BlogHeader.jsx add the following code:
+11. Inside of src create a folder named components
+12. Create a component named BlogHeader.jsx
+13. In BlogHeader.jsx add the following code:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/839a7bed-d5bc-4468-81a0-b31745801733)
-15. Go back to App.jsx and import the new component and render the component after the h1:
+14. Go back to App.jsx and import the new component and render the component after the h1:
     ![image](https://github.com/EmeryCSI/CSI248F23_GuidedActivity2/assets/102991550/2739361b-94c5-4f7a-ad8a-8e6418c988a9)
 17. Now that we see our component is working lets try to pass some data to it with props
 18. Modify BlogHeader.jsx to take a props parameter and display information from the props in the component:
