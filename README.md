@@ -50,6 +50,7 @@ This repository is a part of CSI-248 at Renton Technical College.
     ![Alt text](<Images/GA2 - Components - Step 14.png>)
 
 15. In BlogHeader.jsx add the following code:
+
     ![Alt text](<Images/GA2 - Components - Step 15.png>)
 
 16. Go back to App.jsx and import the new component and render the component after the h1:
@@ -63,17 +64,20 @@ This repository is a part of CSI-248 at Renton Technical College.
     ![Alt text](<Images/GA2 - Components - Step 19.png>)
 
 20. Data is now being moved from a parent component to a child component. Take a Screenshot of the output and add to screenshots.
-    ![Alt text](<Images/GA2 - Components - Step 20.png>)
+    ![Alt text](<Images/GA2 - Components - Step 20 cropped.png>)
 
 21. Repeat this process for a BlogBody component and a BlogFooter component.
 22. Code for BlogBody:
+
     ![Alt text](<Images/GA2 - Components - Step 22.png>)
 
 23. Code for BlogFooter:
+
     ![Alt text](<Images/GA2 - Components - Step 23.png>)
 
 24. Import BlogBody and BlogFooter into App.jsx and render them while passing some data to the props
 25. Updated code for App.jsx. Notice how components can also use self-closing tags.
+
     ![Alt text](<Images/GA2 - Components - Step 25.png>)
 
 26. Take a screenshot of the rendered webpage and save in screenshots directory.
